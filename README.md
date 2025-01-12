@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ayaz Ali  
 
-<!--
-**Ayaz-75/Ayaz-75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineer | AI Enthusiast | Developer | Educator**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a **Computer Systems Engineer** passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Development**. My journey revolves around building impactful projects, sharing knowledge, and solving real-world problems through technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **About Me**
+-  **Education**: Graduated from Mehran University of Engineering and Technology (3.29/4.00 CGPA).  
+-  **Expertise**: AI, ML, NLP, Generative AI, and Data Science.  
+-  **Tech Stack**: Python, R, Flask, Django, TensorFlow, OpenCV, and more.  
+-  **Achievements**: Published researcher and Kaggle contributor with 1000+ downloads on my datasets.
+-  **IELTS**: Achieved an overall 6.5 bands in IELTS.  
+
+
+---
+
+## 🔗 **Connect with Me**
+-  **Portfolio**: [lakho75.pythonanywhere.com](http://lakho75.pythonanywhere.com/)  
+-  **LinkedIn**: [linkedin.com/in/ayaz-ali-lakho](https://www.linkedin.com/in/ayaz-ali-lakho)  
+-  **Kaggle**: [kaggle.com/ayazlakho/datasets](https://www.kaggle.com/ayazlakho/datasets)  
+
+---
+
+##  **Technical Skills**
+- **Languages**: Python, R, C, C++, C#, LaTeX.  
+- **AI & ML**: Data Analysis, NLP, Generative AI, Image Generation.  
+- **Libraries & Frameworks**: Flask, Django, OpenCV, TensorFlow, Pandas, Sci-kit Learn.  
+- **Other Skills**: Web scraping, API integration, automation, and backend development.  
+
+---
+
+##  **Achievements**
+- 📝 **Research**: Published *Guiding Eyes: A YOLOv3-Based Approach for Human Detection and Prevention*.  
+- 📊 **Kaggle Datasets**: Created popular datasets like **Cars Dataset** (1000+ downloads).  
+- 🏅 **Hackathons**: Participated in global events like the **Llama 3 Hackathon** and **Advent of Code 2024**.  
+- 🎓 **Stanford Code in Place 2024**: Completed with a final project delivery.
+- 
+
+---
+
+##  **Hobbies & Interests**
+-  Sharing knowledge through writing and teaching.  
+-  Solving coding challenges on platforms like **LeetCode**.  
+-  Participating in hackathons and exploring new technologies.  
+
+---
+
+ I'm always open to collaborating on exciting projects, sharing ideas, and learning together. Let’s connect and create something amazing!  
