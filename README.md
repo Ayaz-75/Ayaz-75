@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a **Computer Systems Engineer** passionate about **Art
 -  **Portfolio**: [lakho75.pythonanywhere.com](http://lakho75.pythonanywhere.com/)  
 -  **LinkedIn**: [linkedin.com/in/ayaz-ali-lakho](https://www.linkedin.com/in/ayaz-ali-lakho)  
 -  **Kaggle**: [kaggle.com/ayazlakho/datasets](https://www.kaggle.com/ayazlakho/datasets)
--  **Devpost**: [ayazlakho0964]
+-  **Devpost**: ayazlakho0964
 -  **Lablab Profile**: https://lablab.ai/u/@ayaz_lakho658
 -  **Devpost**: https://devpost.com/ayazalilakho2
 -  **ORCID**: https://orcid.org/0009-0004-3317-9016
