@@ -40,6 +40,7 @@ Welcome to my GitHub! I'm a **Computer Systems Engineer** passionate about **Art
 -  **Kaggle Datasets**: Created popular datasets like **Cars Dataset** (1000+ downloads).  
 -  **Hackathons**: Participated in global events like the **Llama 3 Hackathon** and **Advent of Code 2024**.  
 -  **Stanford Code in Place 2024**: Completed with a final project delivery.
+-  **Advent of Code**: Completed all the 50 challenges of **Advent of Code** 2024.
   
 ---
 
