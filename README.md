@@ -23,6 +23,7 @@ Welcome to my GitHub! I'm a **Computer Systems Engineer** passionate about **Art
 -  **Devpost**: [ayazlakho0964]
 -  **Lablab Profile**: https://lablab.ai/u/@ayaz_lakho658
 -  **Devpost**: https://devpost.com/ayazalilakho2
+-  **ORCID**: https://orcid.org/0009-0004-3317-9016
 
 ---
 
