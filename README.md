@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ayaz Ali!
+# <p👋 Hey there, I'm Ayaz Ali!</p>
 
 ## <p align="center" > Aspiring Python developer eager to learn and grow </p>
 
