@@ -1,9 +1,6 @@
-#👋 Hey there, I'm Ayaz Ali!
+# 👋 Hey there, I'm Ayaz Ali!
 
----
-## <p align="center" >
-Aspiring Python developer eager to learn and grow
-</p>
+## <p align="center" > Aspiring Python developer eager to learn and grow </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayaz-75&label=Profile%20Views&color=blue&style=flat)
 
