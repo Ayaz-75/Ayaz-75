@@ -2,7 +2,7 @@
 
 **Engineer | AI Enthusiast | Developer | Educator**  
 
-Welcome to my GitHub! I'm a **Computer Systems Engineer** passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Development**. My journey revolves around building impactful projects, sharing knowledge, and solving real-world problems through technology.  
+Welcome to my GitHub! I'm a **Computer Systems Engineer** passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Development**. My journey revolves around building impactful projects, sharing knowledge, and solving real-world problems through technology.
 
 ---
 
@@ -26,12 +26,33 @@ Welcome to my GitHub! I'm a **Computer Systems Engineer** passionate about **Art
 -  **ORCID**: https://orcid.org/0009-0004-3317-9016
 
 ---
+## 🚀 Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-##  **Technical Skills**
-- **Languages**: Python, R, C, C++, C#, LaTeX.  
-- **AI & ML**: Data Analysis, NLP, Generative AI, Image Generation.  
-- **Libraries & Frameworks**: Flask, Django, OpenCV, TensorFlow, Pandas, Sci-kit Learn.  
-- **Other Skills**: Web scraping, API integration, automation, and backend development.  
+## 📊 Data Science & Machine Learning:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+## 🛠️ Development Tools & Technologies:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+## 🌐 AI & LLM-Related Tools:
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge&logo=mistral&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-333333?style=for-the-badge&logo=ollama&logoColor=white)
+
 
 ---
 
