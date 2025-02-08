@@ -1,4 +1,4 @@
-# <p align="center" Hey 👋 there, I'm Ayaz Ali! </p>
+# <h1 align="center"> Hey 👋 there, I'm Ayaz Ali! </h1>
 
 ## <p align="center" > Aspiring Python developer eager to learn and grow </p>
 
