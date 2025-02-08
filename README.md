@@ -1,24 +1,13 @@
-# 👋 Hello, I'm Ayaz Ali!
+🔹 # 👋 Hello, I'm Ayaz Ali!
 
-## 🚀 About Me
+## About Me
 
-**Aspiring MS & PhD Candidate** (Fall 2025) | AI & ML Enthusiast  
-**Software Developer** | Passionate about **Python, AI, Data Science**  
-**Open Source Contributor** | Working on innovative projects & sharing knowledge  
-**Trainer at iCodeGuru** | Teaching **Python, Data Science & ML**  
+🔹**Aspiring MS & PhD Candidate** (Fall 2025) | AI & ML Enthusiast  
+🔹**Software Developer** | Passionate about **Python, AI, Data Science**  
+🔹**Open Source Contributor** | Working on innovative projects & sharing knowledge  
+🔹**Trainer at iCodeGuru** | Teaching **Python, Data Science & ML**  
 
----
-
-## 🔥 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Ayaz-75&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
@@ -34,9 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
