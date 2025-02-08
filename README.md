@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/ayaz-ali75/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/Ayaz-75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
   <a href="https://www.kaggle.com/ayazali75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
-  <a href="https://leetcode.com/Ayaz-75/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="40"/></a>
+  <a href="https://leetcode.com/Ayaz-75/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/></a>
   <a href="mailto:ayazalilakho2@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
 </p>
 
