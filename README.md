@@ -18,8 +18,6 @@
   <a href="https://www.linkedin.com/in/ayaz-ali75/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/Ayaz-75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
   <a href="https://www.kaggle.com/ayazali75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
-  <a href="https://lablab.ai/u/ayazali75"><img src="https://your-lablab-logo-url.com" width="40" height="40"/></a>
-  <a href="https://devpost.com/ayazali75"><img src="https://your-devpost-logo-url.com" width="40" height="40"/></a>
   <a href="mailto:ayazalilakho2@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
 </p>
 
