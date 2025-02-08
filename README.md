@@ -45,6 +45,14 @@
 
 ---
 
+## 📊 Mostly Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaz-75&layout=compact&theme=radical" width="50%"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
