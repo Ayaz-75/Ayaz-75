@@ -4,13 +4,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayaz-75&label=Profile%20Views&color=blue&style=flat)
 
-<p>
-🔹 **Aspiring MS & PhD Candidate (Fall 2025)** | AI & ML Enthusiast  
-🔹 **Software Developer** | Passionate about **Python, AI, Data Science**  
-🔹 **Open Source Contributor** | Working on innovative projects & sharing knowledge  
-🔹 **Trainer at iCodeGuru** | Teaching **Python, Data Science & ML**  
-🔹 **Tech Explorer:** Always experimenting with new frameworks & algorithms! 
-</p>
+- 🌟 **Aspiring MS & PhD Candidate (Fall 2025)** | AI & ML Enthusiast  
+- 💻 **Software Developer** | Passionate about **Python, AI, Data Science**  
+- ⚛️ **Open Source Contributor** | Working on innovative projects & sharing knowledge  
+- 🎓 **Trainer at iCodeGuru** | Teaching **Python, Data Science & ML**  
+- 🛠️ **Tech Explorer** | Always experimenting with new frameworks & algorithms! 
+
 
 ---
 ## Contact Me:  
