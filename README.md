@@ -1,7 +1,4 @@
-# <p align="center" >
-👋 Hey there, I'm Ayaz Ali!
-</p>
-
+#👋 Hey there, I'm Ayaz Ali!
 
 ---
 ## <p align="center" >
