@@ -1,6 +1,12 @@
-# 👋 Hey there, I'm Ayaz Ali!
+# <p align="center" >
+👋 Hey there, I'm Ayaz Ali!
+</p>
+
+
 ---
-## Aspiring Python developer eager to learn and grow
+## <p align="center" >
+Aspiring Python developer eager to learn and grow
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayaz-75&label=Profile%20Views&color=blue&style=flat)
 
@@ -34,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
