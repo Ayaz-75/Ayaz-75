@@ -15,28 +15,17 @@
 ## Contact Me:  
 
 <p>
-  <a href="https://www.linkedin.com/in/ayaz-ali75/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Ayaz-75"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/ayazali75"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://lablab.ai/u/ayazali75"><img src="https://img.shields.io/badge/Lablab.ai-FF4500?style=for-the-badge&logo=lablabai&logoColor=white"/></a>
-  <a href="https://devpost.com/ayazali75"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
-  <a href="mailto:ayazalilakho2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-## 🔥 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/ayaz-ali75/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  <a href="https://github.com/Ayaz-75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://www.kaggle.com/ayazali75"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
+  <a href="https://lablab.ai/u/ayazali75"><img src="https://your-lablab-logo-url.com" width="40" height="40"/></a>
+  <a href="https://devpost.com/ayazali75"><img src="https://your-devpost-logo-url.com" width="40" height="40"/></a>
+  <a href="mailto:ayazalilakho2@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
