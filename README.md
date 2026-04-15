@@ -13,13 +13,14 @@
 
 ---
 ## Contact Me:
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [ayaz-ali75](https://www.linkedin.com/in/ayaz-ali75/) |
-| 🐙 GitHub | [Ayaz-75](https://github.com/Ayaz-75) |
-| 📊 Kaggle | [ayazali75](https://www.kaggle.com/ayazali75) |
-| 🧩 LeetCode | [Ayaz-75](https://leetcode.com/Ayaz-75/) |
-| 📧 Email | [ayazalilakho2@gmail.com](mailto:ayazalilakho2@gmail.com) |
+
+| | Platform | Link |
+|---|----------|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> | LinkedIn | [ayaz-ali75](https://www.linkedin.com/in/ayaz-ali75/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> | GitHub | [Ayaz-75](https://github.com/Ayaz-75) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30"/> | Kaggle | [ayazali75](https://www.kaggle.com/ayazali75) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/> | LeetCode | [Ayaz-75](https://leetcode.com/Ayaz-75/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/> | Email | [ayazalilakho2@gmail.com](mailto:ayazalilakho2@gmail.com) |
 
 ---
 
